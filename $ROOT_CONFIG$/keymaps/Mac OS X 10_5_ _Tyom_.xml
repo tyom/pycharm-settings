@@ -1,0 +1,12 @@
+<keymap version="1" name="Mac OS X 10.5+ (Tyom)" parent="Mac OS X 10.5+">
+  <action id="CheckinProject" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta K" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift control UP" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift control DOWN" />
+  </action>
+</keymap>
