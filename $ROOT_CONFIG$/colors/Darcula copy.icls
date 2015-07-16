@@ -4,4 +4,11 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="M+ 1m" />
+  <attributes>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="7c8794" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
