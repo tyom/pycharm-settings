@@ -3,11 +3,19 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta K" />
   </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="F4" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift control UP" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift control DOWN" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt HOME" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
