@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'cla_public'" />
-    <option name="defaultScopeName" value="Module 'cla_public'" />
+    <option name="customScope" value="Front-end" />
+    <option name="defaultScopeName" value="Front-end" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'cla_public'" />
+    <option name="SEARCH_SCOPE" value="Front-end" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
