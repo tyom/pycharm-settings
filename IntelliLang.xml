@@ -5,5 +5,13 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>h1</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("h1")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>span</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
   </component>
 </application>
