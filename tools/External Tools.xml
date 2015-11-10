@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="Gulp Serve" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="gulp" />
-      <option name="PARAMETERS" value="serve" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Code/cla_public" />
-    </exec>
-  </tool>
-</toolSet>
