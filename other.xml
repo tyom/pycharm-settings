@@ -4,6 +4,7 @@
     <node-interpreter path="/usr/local/Cellar/node/0.10.31/bin/node" version="0.10.31" last-modified="1408488345000" />
     <node-interpreter path="/usr/local/Cellar/node/0.10.26/bin/node" version="0.10.26" last-modified="1395268861000" />
     <node-interpreter path="/usr/local/Cellar/node/4.1.2/bin/node" version="4.1.2" last-modified="1444097753000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.2/bin/node" version="0.12.2" last-modified="1427841160000" />
     <node-interpreter path="/usr/local/Cellar/node/5.0.0/bin/node" version="5.0.0" last-modified="1446157829000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.9/bin/node" version="0.12.9" last-modified="1449179735000" />
     <node-interpreter path="/usr/local/Cellar/node/0.10.35/bin/node" version="0.10.35" last-modified="1419387486000" />
