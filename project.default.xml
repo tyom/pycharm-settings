@@ -14,10 +14,6 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
     </defaultProject>
   </component>
 </application>
