@@ -65,6 +65,7 @@
         <entry key="$USER_HOME$/.virtualenvs/cla_public/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/fala/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/nhsuk-content-store/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/wagtail/bin/python" value="false" />
         <entry key="/usr/bin/python" value="false" />
       </map>
     </option>
@@ -75,6 +76,7 @@
         <entry key="$USER_HOME$/.virtualenvs/cla_public/bin/python" value="true" />
         <entry key="$USER_HOME$/.virtualenvs/fala/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/nhsuk-content-store/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/wagtail/bin/python" value="false" />
         <entry key="/usr/bin/python" value="false" />
       </map>
     </option>
@@ -85,6 +87,7 @@
         <entry key="$USER_HOME$/.virtualenvs/cla_public/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/fala/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/nhsuk-content-store/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/wagtail/bin/python" value="false" />
         <entry key="/usr/bin/python" value="false" />
       </map>
     </option>
